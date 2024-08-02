@@ -1,0 +1,17 @@
+{
+    "name": "knowledge-base-server",
+    "version": "1.0.0",
+    "description": "A serverless function for managing a knowledge base",
+    "main": "api/server.js",
+    "scripts": {
+      "dev": "vercel dev"
+    },
+    "dependencies": {
+    },
+    "devDependencies": {
+    },
+    "engines": {
+      "node": "16.x"
+    }
+  }
+  
