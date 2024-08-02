@@ -4,15 +4,13 @@
   "description": "A serverless function for managing a knowledge base",
   "main": "api/server.js",
   "scripts": {
-    "dev": "vercel dev" // Command to run the project locally with Vercel's dev environment
+    "dev": "vercel dev"
   },
   "dependencies": {
-    // List any dependencies here if needed
   },
   "devDependencies": {
-    // List development dependencies here if needed
   },
   "engines": {
-    "node": "20.x" // Update the Node.js version to 20.x
+    "node": "20.x"
   }
 }
