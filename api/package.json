@@ -1,17 +1,18 @@
 {
-    "name": "knowledge-base-server",
-    "version": "1.0.0",
-    "description": "A serverless function for managing a knowledge base",
-    "main": "api/server.js",
-    "scripts": {
-      "dev": "vercel dev"
-    },
-    "dependencies": {
-    },
-    "devDependencies": {
-    },
-    "engines": {
-      "node": "16.x"
-    }
+  "name": "knowledge-base-server",
+  "version": "1.0.0",
+  "description": "A serverless function for managing a knowledge base",
+  "main": "api/server.js",
+  "scripts": {
+    "dev": "vercel dev" // Command to run the project locally with Vercel's dev environment
+  },
+  "dependencies": {
+    // List any dependencies here if needed
+  },
+  "devDependencies": {
+    // List development dependencies here if needed
+  },
+  "engines": {
+    "node": "20.x" // Update the Node.js version to 20.x
   }
-  
+}
